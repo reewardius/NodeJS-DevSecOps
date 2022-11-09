@@ -1,6 +1,6 @@
 /**
  * Created by alicia.sykes on 24/08/2015.
- */
+ */ */
 require('colors');
 
 var fetchWeather = require('./fetch-weather');
